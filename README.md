@@ -23,10 +23,10 @@
 
 ## General info
 
-> The goal of the home page is to promote Madhu's work and attract clients.
-> Whithin this project I have practiced **Discover & Define phase of the Double Diamond design process**.
-> I started with an interview to define my client, Madhu, to determine what she needs from this home page.
-> Based on the results of that interview, I developed an initial design in Figma.
+> The goal of the home page is to promote Madhu's work and attract clients.  
+> Whithin this project I have practiced **Discover & Define phase of the Double Diamond design process**.  
+> I started with an interview to define my client, Madhu, to determine what she needs from this home page.  
+> Based on the results of that interview, I developed an initial design in Figma.  
 
 ## Screenshots
 
