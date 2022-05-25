@@ -1,6 +1,7 @@
-# Name of project
+# Figma design for handmane jewelry shop.
 
-> A longer description
+> In this project I have developed the design of the. home page for my classmate's [Madhu](https://github.com/MadhuMNG/Madhu.github.io) handmade jewelry shop.
+> 
 
 ## Table of contents
 
@@ -22,7 +23,10 @@
 
 ## General info
 
-> A short description
+> The goal of the home page is to promote Madhu's work and attract clients.
+> Whithin this project I have practiced **Discover & Define phase of the Double Diamond design process**.
+> I started with an interview to define my client, Madhu, to determine what she needs from this home page.
+> Based on the results of that interview, I developed an initial design in Figma.
 
 ## Screenshots
 
